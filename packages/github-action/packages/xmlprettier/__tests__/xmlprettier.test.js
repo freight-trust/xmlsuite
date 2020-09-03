@@ -1,7 +1,7 @@
-'use strict';
+'use strict'
 
-const xmlprettier = require('..');
+const xmlprettier = require('..')
 
 describe('xmlprettier', () => {
-    it('needs tests');
-});
+	it('needs tests')
+})

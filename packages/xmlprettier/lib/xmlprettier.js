@@ -1,7 +1,7 @@
-'use strict';
+'use strict'
 
-module.exports = xmlprettier;
+module.exports = xmlprettier
 
 function xmlprettier() {
-    // TODO
+	// TODO
 }
